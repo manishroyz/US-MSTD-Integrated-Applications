@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b12b5bb-6ee8-4030-82e3-70d432175385" name="Default Changelist" comment="Direct db access using native python.">
-      <change afterPath="$PROJECT_DIR$/db_rest_app/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask-mysql/generate_data_rows.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask-mysql/generate_data_rows2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/US-MSTD-Integrated-Applications.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/US-MSTD-Integrated-Applications.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db_access_layer/call_dba.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db_access_layer/database_access.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-mysql/operations_usmstd.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-mysql/operations_usmstd.py" afterDir="false" />
-    </list>
+    <list default="true" id="4b12b5bb-6ee8-4030-82e3-70d432175385" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,12 +39,12 @@
           <entry key="Python Console" value="19" />
           <entry key="dummy" value="20" />
           <entry key="py" value="2616" />
-          <entry key="txt" value="40" />
+          <entry key="txt" value="60" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="60" />
+          <entry key="PLAIN_TEXT" value="80" />
           <entry key="Python" value="2635" />
         </counts>
       </usages-collector>
@@ -141,17 +130,6 @@
             <path>
               <item name="US-MSTD-Integrated-Applications" type="b2602c69:ProjectViewProjectNode" />
               <item name="US-MSTD-Integrated-Applications" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="US-MSTD-Integrated-Applications" type="b2602c69:ProjectViewProjectNode" />
-              <item name="US-MSTD-Integrated-Applications" type="462c0819:PsiDirectoryNode" />
-              <item name="db_rest_app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="US-MSTD-Integrated-Applications" type="b2602c69:ProjectViewProjectNode" />
-              <item name="US-MSTD-Integrated-Applications" type="462c0819:PsiDirectoryNode" />
-              <item name="db_rest_app" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="US-MSTD-Integrated-Applications" type="b2602c69:ProjectViewProjectNode" />
@@ -327,11 +305,18 @@
       <option name="presentableId" value="Default" />
       <updated>1559076020405</updated>
     </task>
+    <task id="LOCAL-00001" summary="Intermittent commit.">
+      <created>1561577324739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561577324740</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1513" height="973" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23087339" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -357,7 +342,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Direct db access using native python." />
-    <option name="LAST_COMMIT_MESSAGE" value="Direct db access using native python." />
+    <MESSAGE value="Intermittent commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Intermittent commit." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/flask/__main__.py">
