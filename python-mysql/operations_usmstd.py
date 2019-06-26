@@ -42,7 +42,7 @@ query = "INSERT INTO experimental_data (collect_date,tof_s1,tof_s2,tof_s3,tof_s4
         "tc1,tc2,tc3,tc4,tc5,tc6) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"
 values = [(1560657245, 6100, 6600, 7100, 7600,	410, 510, 610, 710, 50, 450, 560, 590, 660, 760)]
 
-## executing the query with values
+## executing the query with valuess
 cursor.executemany(query, values)
 
 ## to make final output we have to run the 'commit()' method of the database object
